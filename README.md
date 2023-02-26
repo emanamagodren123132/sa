@@ -1,0 +1,2 @@
+# sa
+sqrgu bot altyaoı
